@@ -1,4 +1,6 @@
-# Repo to save API's types like Restful, Websockets, SOAP, gRPC, GraphQL, in different languages like Golang, Java, Python, JavaScript, Rust, etc
+# Collection of API's
+
+Repo to save API's types like Restful, Websockets, SOAP, gRPC, GraphQL, in different languages like Golang, Java, Python, JavaScript, Rust, etc
 
 
 ## How to use
