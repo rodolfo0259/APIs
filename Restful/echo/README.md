@@ -13,7 +13,13 @@ Your job is to search the pinpointed location, the abandoned office, for clues o
 
 ## How to Get Started
 
+Using Go directly
 ```sh
 go mod tidy
 go run cmd/app/main.go
+```
+
+Using docker-compose
+```
+sudo docker-compose up --build
 ```
